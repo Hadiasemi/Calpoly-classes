@@ -1,6 +1,6 @@
 # Calpoly-classes
 
-Get the classes, name, and number of units in you terminal. This code is written in go language.
+Get the classes, name, and number of units in your terminal. This code is written in go language.
 
 ```go
 go get .
