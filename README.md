@@ -23,7 +23,7 @@ I added the compiled version of my code for windows x64 and mac so that if you d
 **Windows:**
 
 ```bash
-./classw.exe csc
+classw.exe csc
 ```
 **Mac:**
 
