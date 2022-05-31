@@ -18,7 +18,7 @@ usage: ./class [csc | cpe | data | stat | math]
 
 ## Compiled Version:
 
-I added the compiled version of my code for windows x64 and mac so that if you don't have go, you use the compiled one.
+I added the compiled version of my code for windows x64 and mac so that if you don't have golang on your computer, you can use the compiled one.
 
 **Windows:**
 
