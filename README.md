@@ -16,3 +16,17 @@ usage: ./class [csc | cpe | data | stat | math]
 
 ![Sample Outp](./1.png)
 
+## Compiled Version:
+
+I added the compiled version of my code for windows x64 and mac so that if you don't have go, you use the compiled one.
+
+**Windows:**
+
+```bash
+./classw csc
+```
+**Mac:**
+
+```bash
+./class csc
+```
