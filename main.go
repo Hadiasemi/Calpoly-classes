@@ -10,7 +10,7 @@ import (
 )
 
 func usage() {
-    fmt.Fprintf(os.Stderr, "usage: %s [csc | cpe | data | stat | math]\n", os.Args[0])
+    fmt.Fprintf(os.Stderr, "usage: %s [acronyms]\n", os.Args[0])
     os.Exit(2)
 }
 

@@ -8,10 +8,10 @@ go build -o class -ldflags="-s -w" main.go
 ```
 
 ## Usage:
-Please choose between csc, cpe, data, stat, math to get the printed table of your classes on the terminal.
+Please choose acronyms from the school catalog to get the printed table of your classes on the terminal.
 
 ```bash
-usage: ./class [csc | cpe | data | stat | math]
+usage: ./class [acronyms]
 ```
 
 ![Sample Outp](./1.png)
