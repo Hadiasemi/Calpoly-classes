@@ -24,9 +24,11 @@ I added the compiled version of my code for windows x64 and mac so that if you d
 
 ```bash
 classw.exe csc
+classw.exe cpe
 ```
 **Mac:**
 
 ```bash
 ./class csc
+./class cpe
 ```
